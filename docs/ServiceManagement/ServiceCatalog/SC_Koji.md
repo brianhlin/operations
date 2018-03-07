@@ -9,5 +9,5 @@
 | Service Area            | OSG Software and Release                                                                                                     |
 | Service Level Agreement |                                                                                                                              |
 | Support Unit            | OSG Software and Release                                                                                                     |
-| Support Contact Address | software@opensciencegrid.org                                                                                                 |
+| Support Contact Address | osg-software@opensciencegrid.org                                                                                             |
 | Dependencies            | Koji, KVM                                                                                                                    |
