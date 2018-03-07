@@ -1,8 +1,8 @@
 # Service Catalog for the Madison ITB
 
-| Service Catalog         | Koji Build Service                                                                                                                           |
+| Service Catalog         | Madison ITB                                                                                                                                  |
 |-------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
-| Service Name            | Koji Build Service                                                                                                                           |
+| Service Name            | Madison ITB                                                                                                                                  |
 | Service Status          | Active                                                                                                                                       |
 | Service Description     | The Madison ITB site serves is designed to represent a typical OSG site. Most notably it is used to test both HTCondor and OSG pre-releases. |
 | Service Users           | OSG Software and Release                                                                                                                     |
