@@ -18,6 +18,8 @@ pages:
   - Topology and Contacts Data: 'services/topology-contacts-data.md'
   - Finalize Cache Registration: 'services/finalize-cache-registration.md'
   - Sending Announcements: 'services/sending-announcements.md'
+  - Software Repositories:
+      - Troubleshooting Update Scripts: 'services/repos/troubleshoot-updates.md'
 - Service Level Agreements:
   - 'HTCondor Collector': 'SLA/collector.md'
   - 'MyOSG': 'SLA/myosg.md'
